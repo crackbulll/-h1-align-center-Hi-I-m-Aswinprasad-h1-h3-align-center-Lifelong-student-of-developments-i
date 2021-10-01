@@ -1,7 +1,7 @@
 # -<h1 align="center">Hi 👋, I'm Aswinprasad</h1>
 <h3 align="center">Lifelong student of developments in threat detection and mitigation</h3>
 
-- 🌱 I’m currently learning **CEH**
+- 🌱 I’m currently learning **CHFI**
 
 - 💬 Ask me about **Ethical hacking, penetration testing,coding**
 
